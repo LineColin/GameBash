@@ -1,0 +1,28 @@
+
+ __^__                                                                                    __^__
+( ___ )----------------------------------------------------------------------------------( ___ )
+ |   |                                                                                    |   |
+ | / |  Bienvenu dans cette aventure.                                                     | \ |
+ | / |  =============================.                                                    | \ |
+ | / |                                                                                    | \ |
+ | / |  Jeune aventurier·ère,                                                             | \ |
+ | / |  Ton but est d'inscrire ton nom dans la légende de ce monde.                       | \ |
+ | / |                                                                                    | \ |
+ | / |  Ta première mission consiste à aller en haut du donjon.                           | \ |
+ | / |                                                                                    | \ |
+ | / |  Pour ce faire tu auras besoin des commandes suivante:                             | \ |
+ | / |                                                                                    | \ |
+ | / |  cd                                                                                | \ |
+ | / |  permet de ce déplacer                                                             | \ |
+ | / |                                                                                    | \ |
+ | / |  ls                                                                                | \ |
+ | / |  affiche la liste de repertoires et fichiers                                       | \ |
+ | / |                                                                                    | \ |
+ | / |  pwd                                                                               | \ |
+ | / |  affiche le chemin de la location en cours                                         | \ |
+ | / |                                                                                    | \ |
+ | / |      Lorsque tu penses avoir fini une mission tapes 'check' dans le terminal       | \ |
+ | / |                                                                                    | \ |
+ | / |                                                                                    | \ |
+ |___|                                Bonne chance                                        |___|
+(_____)----------------------------------------------------------------------------------(_____)

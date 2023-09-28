@@ -1,0 +1,7 @@
+Pour cette mission vous aurez besoin des commandes suivantes : 
+- cd 
+- ls
+- pwd
+
+Assurez vous de vérifiez ce qu'il y a en haut du donjon
+

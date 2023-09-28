@@ -1,0 +1,34 @@
+  _________________________________________________________________________________
+ /   ___                                                                     ___   \
+|   /   \           Félicitation                                            /   \  |
+|\  \ · |           =============                                           | · / /|
+| \____/|                                                                   |\___/ |
+|       |                                                                   |      |
+|       | Tu as ramené l'épée !                                             |      |
+|       | dans la légende.                                                  |      |
+|       |                                                                   |      |
+|       | Cherche maintenant le tresor caché dans cette pièce.              |      |
+|       |                                                                   |      |
+|       |   Pour ce faire tu auras besoin des commandes suivantes:          |      |
+|       |                                                                   |      |
+|       |   -a                                                              |      |
+|       |   option qui permet de voir les fichiers cachés                   |      |
+|       |                                                                   |      |
+|       |   mv MonFichier.tx .MonFichier.txt                                |      |
+|       |   rend un fichier visible caché                                   |      |
+|       |                                                                   |      |
+|       |                                                                   |      |
+ \      |___________________________________________________________________|      /                                  
+  \____/                                                                    \_____/
+
+                         ___ 
+                        |===|
+                        |___|
+                       /#####\\  _____
+                      //##### \\|     |
+                     // #####  \| (ƒ) |
+             =======]&  ^^^^^   |     |
+                        |#|#|   \_____/
+                        |_|_| 
+                        [ | ]
+

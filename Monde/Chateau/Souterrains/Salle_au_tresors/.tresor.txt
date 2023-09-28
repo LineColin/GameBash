@@ -1,0 +1,30 @@
+
+  _________________________________________________________________________________
+ /   ___                                                                     ___   \
+|   /   \           Félicitation                                            /   \  |
+|\  \ · |           =============                                           | · / /|
+| \____/|                                .     '     ,                      |\___/ |
+|       |                                  _________                        |      |
+|       |                               _ /_|_____|_\ _                     |      |
+|       |                                 '. \   / .'                       |      |   
+|       |                                   · \ / ·                         |      |
+|       |                                     ···                           |      |
+|       |                                      ·                            |      |
+|       |                                                                   |      |
+|       | Tu as trouvé le trésor !                                          |      |
+|       | Tu peux maintenant inscrire ton nom dans la légende               |      |
+|       |                                                                   |      |
+|       | Pour celà rends toi dans la salle du trône                        |      |
+|       | et crées un fichier.txt                                           |      |
+|       |                                                                   |      |
+|       |  Tu auras besoin des commandes suivantes:                         |      |
+|       |                                                                   |      |
+|       |     vi legende.txt ou touch legende.txt                           |      |
+|       |                                                                   |      |
+|       |  Ces deux commandes on des formes d'utilisation différents.       |      |
+|       |  Réfères toi au cours                                             |      |
+|       |                                                                   |      |
+|       |                                                                   |      |
+ \      |___________________________________________________________________|      /                                  
+  \____/                                                                    \_____/
+

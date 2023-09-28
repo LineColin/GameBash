@@ -1,0 +1,6 @@
+Pour cette mission vous aurez besoin des commandes: 
+- cd
+- ls
+- pwd
+- copy
+t
