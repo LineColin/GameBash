@@ -6,4 +6,9 @@ Pour lancer le jeu taper les commandes suivantes :
 chmod +x Script.sh
 ./Script.sh
 ```
+A la fin de chaque mission pour la valider taper : 
+
+```
+check
+```
 
